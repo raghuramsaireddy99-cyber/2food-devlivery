@@ -851,3 +851,9 @@ ul.location_icon li a:hover {
     color:#fff;
     font-weight:600;
 }
+
+
+.card img{
+    height: 250px;
+    object-fit: cover;
+}
