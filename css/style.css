@@ -828,3 +828,26 @@ ul.location_icon li a:hover {
      position: inherit;
 }
 
+
+
+
+
+.card img{
+    height:250px;
+    object-fit:cover;
+}
+
+.card{
+    border-radius:15px;
+    overflow:hidden;
+    transition:0.4s;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+}
+
+.btn-warning{
+    color:#fff;
+    font-weight:600;
+}
